@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SadN00dle
 - 👀 I’m interested in app and game development.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on (currently none)
+- 🌱 I’m currently learning blender.
+- 💞️ I’m looking to collaborate on low poly game projects.
 - 📫 How to reach me via email: sadnoodle11@gmail.com
 
 <!---
